@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Zub_sero\\.android\\build-cache\\04cd3a31d0a418ff978a3462c526222f8aec6c9c\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

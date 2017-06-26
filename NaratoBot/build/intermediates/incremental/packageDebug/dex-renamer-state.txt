@@ -1,0 +1,7 @@
+#Mon Jun 26 04:08:45 CEST 2017
+base.0=C\:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_592f141da88a4dda22e177f7b37c4d954d8fe998
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b09fe3213e8aeb208772a116a498cc2c60a5213f\\classes.dex
+base.1=C\:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b09fe3213e8aeb208772a116a498cc2c60a5213f
+file.0=C\:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_592f141da88a4dda22e177f7b37c4d954d8fe998\\classes.dex

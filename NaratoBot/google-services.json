@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584508086565",
+    "firebase_url": "https://narato-97df2.firebaseio.com",
+    "project_id": "narato-97df2",
+    "storage_bucket": "narato-97df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584508086565:android:e9c894f19e052fce",
+        "android_client_info": {
+          "package_name": "ai.api.narato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584508086565-h08sevfd53rq2psodpghn9njm5ncm2nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.api.narato",
+            "certificate_hash": "c3c39e186e68ba36bcd65d80f4e0021b197d339e"
+          }
+        },
+        {
+          "client_id": "584508086565-p80dvlv6489emdgmecuv6dkpfngrcjjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDteovnSj-LoP4V1L_e0lY2YKhXNPXMQdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584508086565-p80dvlv6489emdgmecuv6dkpfngrcjjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\res\\merged\\debug\\raw\\test_stop.mp3",
+        "source": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\src\\main\\res\\raw\\test_stop.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\res\\merged\\debug\\raw\\test_cancel.wav",
+        "source": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\src\\main\\res\\raw\\test_cancel.wav"
+    },
+    {
+        "merged": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\res\\merged\\debug\\raw\\test_start.wav",
+        "source": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\src\\main\\res\\raw\\test_start.wav"
+    },
+    {
+        "merged": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\NaratoBot\\build\\intermediates\\res\\merged\\debug\\raw\\version_config.json",
+        "source": "C:\\Users\\Zub_sero\\AndroidStudioProjects\\apiai-android-client-master\\ailib\\build\\intermediates\\bundles\\default\\res\\raw\\version_config.json"
+    }
+]

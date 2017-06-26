@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ai.api.narato">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <application
+        android:name="ai.api.narato.AIApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="ai.api.narato.GoogleSignInActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="ai.api.narato.AiButtonListener"
+            android:label="@string/title_activity_aibutton"
+            android:parentActivityName="ai.api.narato.GoogleSignInActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ai.api.narato.GoogleSignInActivity" />
+        </activity>
+
+        <activity
+            android:name="ai.api.narato.AISettingsActivity"
+            android:label="@string/action_settings"
+            android:parentActivityName="ai.api.narato.GoogleSignInActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ai.api.narato.GoogleSignInActivity" />
+        </activity>
+
+    </application>
+
+</manifest>

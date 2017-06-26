@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">584508086565-p80dvlv6489emdgmecuv6dkpfngrcjjh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://narato-97df2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">584508086565</string>
+    <string name="google_api_key" translatable="false">AIzaSyDteovnSj-LoP4V1L_e0lY2YKhXNPXMQdI</string>
+    <string name="google_app_id" translatable="false">1:584508086565:android:e9c894f19e052fce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDteovnSj-LoP4V1L_e0lY2YKhXNPXMQdI</string>
+    <string name="google_storage_bucket" translatable="false">narato-97df2.appspot.com</string>
+    <string name="project_id" translatable="false">narato-97df2</string>
+</resources>
